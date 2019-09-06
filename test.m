@@ -1,2 +1,1 @@
-printf('test');
 printf('ola');
